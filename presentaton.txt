@@ -1,2 +1,7 @@
 Nom : Noukam Ngandeu
 Filiere : Tron commun
+
+Competences :
+    - Programmation VBA Excel
+    - Maitrise de la suite bureautique MS Office
+    - Programmation Python
